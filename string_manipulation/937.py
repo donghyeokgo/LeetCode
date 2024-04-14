@@ -12,5 +12,3 @@ def reorderLogFiles1(self, logs: List[str]) -> List[str]:
 
     return let+log
 
-def reorderLogFiles2(self, logs: List[str]) -> List[str]:
-
